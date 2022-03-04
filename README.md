@@ -1,3 +1,6 @@
+* Note: Visit the [Chroma Animation Guide](https://chroma.razer.com/ChromaGuide/) to find the latest supported plugin for Chroma RGB.
+
+
 ## Table of contents
 
 * [See Also](#see-also)
